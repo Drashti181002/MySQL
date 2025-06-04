@@ -1,0 +1,11 @@
+ContactEmployeeID,ContactID,EmployeeID,ContactDate,Descriptions
+1,1,11,2024-01-08,"Reporting with Alex"
+2,2,12,2024-02-05,"Email to Gabriella"
+3,3,13,2024-03-14,"Call with Sam"
+4,4,14,2024-04-24,"Meeting with Ellie"
+5,5,15,2024-05-11,"Call with Mallory"
+6,6,16,2024-06-21,"Email to Kyra"
+7,7,17,2024-07-11,"Meeting with Caitlyn"
+8,8,18,2024-08-15,"Call with Allie"
+9,9,19,2024-09-20,"Email to Brianna"
+10,10,20,2024-10-18,"Meeting with Faith"

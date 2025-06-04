@@ -1,0 +1,11 @@
+ContactID,CompanyID,FirstName,LastName,IsMain,Email,Phone
+1,2,Alex,Abadi,1,alex.abadi@gmail.com,167-234-4224
+2,3,Gabriella,Castillo,1,Gabriella.Castillo@gmail.com,908-673-7747
+3,4,Sam,Dillon,0,Sum.Dillon@gmail.com,555-544-8954
+4,5,Ellie,Fetner,0,Ellie.Fetners@gmail.com,444-744-4444
+5,6,Mallory,Guthrie,1,Mallory.Guthrie@gmail.com,786-894-9745
+6,7,Kyra,Kardong,1,Kyra.Kardong@gmail.com,557-454-4558
+7,8,Caitlyn,Magarin,1,Caitlyn.Magarin@gmail.com,455-554-8545
+8,9,Allie,McSween,0,Allie.McSween@gmail.com,415-544-4554
+9,10,Brianna,Pace,1,Brianna.Pace@gmail.com,477-987-3698
+10,1,Faith,Purdent,1,Faith.Purdent@gmail.com,789-654-9741

@@ -1,0 +1,14 @@
+CompanyID,CompanyName,Street,City,State,Zip
+1,TechCorp,"123 Elm St","New York",NY,10001
+2,BizGroup,"456 Oak St",Chicago,IL,60601
+3,"Innovate Ltd","789 Pine St","San Francisco",CA,94101
+4," Urban Outfitters","135 Maple St",Austin,TX,73301
+5,NetSoft,"246 Cedar St",Seattle,WA,98101
+6,CloudCore,"357 Birch St",Denver,CO,80201
+7,DesignPlus,"468 Walnut St",Boston,MA,02101
+8,"AI Logic","579 Spruce St",Atlanta,GA,30301
+9,DataHub,"681 Ash St",Miami,FL,33101
+10,CodeX,"792 Fir St",Portland,OR,97201
+11,FusionSoft,"803 Redwood St","Las Vegas",NV,89101
+12,GreenSoft,"914 Palm St",Phoenix,AZ,85001
+13,"toll brothers","789 Pine St",Chicago,IL,97678

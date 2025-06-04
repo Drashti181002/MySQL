@@ -1,0 +1,11 @@
+EmployeeID1,FirstName,LastName,Salary,HireDate,JobTitle,Email,Phone
+11,Alex,Abadi,80000.00,2022-02-05,"Data analyst",alex.abadi@gmail.com,167-234-4224
+12,Gabriella,Castillo,90000.00,2023-12-15,"Python developer",Gabriella.Castillo@gmail.com,908-673-7747
+13,Sam,Dillon,20000.00,2021-10-12,"Full-stack developer",Sum.Dillon@gmail.com,555-544-8954
+14,Ellie,Fetner,90000.00,2018-01-15,"Data scientist",Ellie.Fetners@gmail.com,444-744-4444
+15,Mallory,Guthrie,70000.00,2022-11-21,"Backend developer",Mallory.Guthrie@gmail.com,786-894-9745
+16,Kyra,Kardong,60000.00,2019-01-27,"Frontend developer",Kyra.Kardong@gmail.com,557-454-4558
+17,Caitlyn,Magarin,90000.00,2020-12-29,"Graphic designer",Caitlyn.Magarin@gmail.com,455-554-8545
+18,Allie,McSween,220000.00,2022-10-18,"Automation tester",Allie.McSween@gmail.com,415-544-4554
+19,Brianna,Pace,30000.00,2018-11-21,"PowerBI developer",Brianna.Pace@gmail.com,215-555-8800
+20,Faith,Purdent,40000.00,2021-08-15,"Software engineer",Faith.Purdent@gmail.com,789-654-9741
